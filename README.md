@@ -1,2 +1,2 @@
-# calculator-class-js
-credits to ali arshadi as developer
+# calculator-using-class-js
+credits to ali arshadi as frontend developr
